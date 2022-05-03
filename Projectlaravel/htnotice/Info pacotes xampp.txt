@@ -1,0 +1,60 @@
+pacotes do Xamp install, detalhes sobre:
+-------------------------------------------------------
+Esse Programa realmente é levado para o controle de 
+serviços internet
+-------------------------------------------------------
+Program Languages
+
+-WEBALIZER:uma framework de analise e estatisticas 
+sobre o teu site, como visitas e estatisticas.
+-------------------------------------------------------
+-FAKE SENDMAIL:é um aplicativo de janela simples, que 
+emula um sendmail de entrega email canalizado via stdin,
+ele apenas encaminha o email,geralmente para o servidor
+smtp do seu isp ??nao entendi muito bem, preferi 
+desmarcar, ja que nem sites br falam sobre.
+--------------------------------------------------------
+ -STDIN: meio mais antigo e comum do usuario passar
+info a um programa é via teclado. Por iso mesmo, ele é
+considerado a entrada padrao, e é ai que vem o stdin.
+-------------------------------------------------------- 
+-ISP:em Br:Provedor de serviços de internet,Pode 
+oferecer serviços relacionados,como contas e-mail,
+hospedagem,registro de nome de dominio e ate serviços
+de comunicação de dados e telefone.
+--------------------------------------------------------
+ -SMTP:protocolo de transferencia de correio simples é
+o protocolo padrão de envio de mensagens de correio
+eletronico atraves da internet entre dois dispositivos 
+computacionais, definido na RFC 821.
+-------------------------------------------------------- 
+-TCP//IP:é um conjunto de protocolos de comunicação
+entre pc em rede(so uma ressalva do que é).
+--------------------------------------------------------
+TOMCAT:é um programa parecido com javaScript que
+define como essas solicitações de servidor sao tratadas.
+Ele atua tambem como um ambiente de servidor Http para
+hospedar paginas estaticas.
+--------------------------------------------------------
+DSL: sao meios de conexão a internet que utiliza o par 
+de fios de cobre(par trançado)da linha telefonica para
+poder levar mais do que uma simples fala(sao os cabos
+dos roteadores para ter net)(dados).
+--------------------------------------------------------  
+FILEZILLA:é um aplicativo de codigo aberto, para windows
+e outros,recomendados para quem esta começando a mexer 
+com internet agora e precisa enviar arquivos para algum
+servidor através do protocolo ftp(File Transfer Protocol).
+--------------------------------------------------------
+FTP/IP:é um conjunto de regras que os dispositivos em 
+uma redetcp/ip(internet)usam para transferir arquivos
+(quando se usa a net,usa uma variedade de protocolos),
+seu acesso pode ser feito por qualquer usuario da rede 
+ou reservado.
+--------------------------------------------------------
+MERCURY MAIL:Pacote com principais servers de codigo 
+aberto do mercado,incluindo FTP, banco de dados MySQL e
+Apache com suporte as linguagens PHP e Perl(com ele,é 
+possivel rodar sistemas como WordPress e Drupal 
+localmente, facilitando e agilizando o desenvolvimento).
+--------------------------------------------------------
